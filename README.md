@@ -1,1 +1,2 @@
 Krótki opis projektuuuu
+ooooooooooo
