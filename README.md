@@ -1,2 +1,4 @@
 Ręczne rozwiązanie konfliktu w README
-aaaa
+ooooooooooo
+
+
