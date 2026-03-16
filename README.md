@@ -1,1 +1,2 @@
-Krótki opis projektuuuu
+Ręczne rozwiązanie konfliktu w README
+aaaa
