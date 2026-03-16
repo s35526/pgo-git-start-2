@@ -1,1 +1,1 @@
-Krótki opis projektu
+Krótki opis projektuuuu
